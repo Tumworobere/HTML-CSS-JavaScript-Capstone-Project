@@ -4,7 +4,7 @@ const speakers = [
     alt: 'Speaker-1',
     name: 'Daudi Jjingo',
     designation: 'SANTHE Senior Researcher,College of Computing & College of Health Sciences, Makerere University, Kampala, Uganda',
-    biography:'Daudi Jjingo is the Programme Director/PI for the Ugandan NIH H3Africa bioinformatics training programme (BRECA). Together with the NIH and Uganda’s Infectious Diseases Institute (IDI). Jjingo earned his PhD in bioinformatics as a Fulbright Scholar in the US, having completed an MSc in bioinformatics at the University of Leeds in the UK and a BSc in biochemistry at Makerere University in Uganda. He later worked as a senior bioinformatics consultant at the CDC headquarters in Atlanta before returning to Ugand',
+    biography: 'Daudi Jjingo is the Programme Director/PI for the Ugandan NIH H3Africa bioinformatics training programme (BRECA). Together with the NIH and Uganda’s Infectious Diseases Institute (IDI). Jjingo earned his PhD in bioinformatics as a Fulbright Scholar in the US, having completed an MSc in bioinformatics at the University of Leeds in the UK and a BSc in biochemistry at Makerere University in Uganda. He later worked as a senior bioinformatics consultant at the CDC headquarters in Atlanta before returning to Ugand',
   },
 
   {
@@ -12,7 +12,7 @@ const speakers = [
     alt: 'Speaker-2',
     name: 'Daudi Twino',
     designation: 'Professor at Stanford University',
-    biography: 'Daudi Twino is the Alcatel-Lucent Professor of Computer Science at Stanford.Daudi received his Bachelors degree in Computer Science and Music from Bowling Green State University in 1983 and his Ph.D. from Cornell University in 1988. Daudi was a Research Staff Member at the IBM Almaden Research Center (1988-1993) and a Professor in the EECS department at UC Berkeley (1993-2003) before joining the Stanford faculty in 2003. His research interest is in areas related to programming languages'
+    biography: 'Daudi Twino is the Alcatel-Lucent Professor of Computer Science at Stanford.Daudi received his Bachelors degree in Computer Science and Music from Bowling Green State University in 1983 and his Ph.D. from Cornell University in 1988. Daudi was a Research Staff Member at the IBM Almaden Research Center (1988-1993) and a Professor in the EECS department at UC Berkeley (1993-2003) before joining the Stanford faculty in 2003. His research interest is in areas related to programming languages',
   },
 
   {
@@ -20,7 +20,7 @@ const speakers = [
     alt: 'Speaker-3',
     name: 'Annah Tumworobere',
     designation: '2014 Winner of the Grace Hopper Celebration A. Richard Newton Educator ABIE Award',
-    biography: 'Dr. Annah is a gifted robotics researcher. Her academic career is highlighted by her focus on robototics and Computer Engineering at the Georgia Institute of Techno logy. She also serves as the Associate Director of Research for the Georgia Tech Institute for Robotic. Dr.Annah is also a robotics researcher at NASA’s Jet Propulsion Laboratory'
+    biography: 'Dr. Annah is a gifted robotics researcher. Her academic career is highlighted by her focus on robototics and Computer Engineering at the Georgia Institute of Techno logy. She also serves as the Associate Director of Research for the Georgia Tech Institute for Robotic. Dr.Annah is also a robotics researcher at NASA’s Jet Propulsion Laboratory',
   },
 
   {

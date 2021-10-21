@@ -104,7 +104,7 @@ footer img {
 .first-container .event-details .first-para {
   border: 5px solid white;
   font-size: 18px;
-  color:lightgreen;
+  color: lightgreen;
 }
 
 .first-container .info-home {
@@ -120,12 +120,12 @@ footer img {
   font-family: 'Lato', sans-serif;
   font-weight: bold;
   font-size: 30px;
-  color:hotpink;
+  color: hotpink;
 }
 
 .first-container .event-details .venue {
   font-size: 20px;
-  color:hotpink;
+  color: hotpink;
 }
 
 .up-footer {
