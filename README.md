@@ -2,12 +2,7 @@
 
 # My Portfolio
 
-> This is my first capstone project in the Microverse of Module 1 in which I built WLT Global Hackathon website platform . This is my responsive desktop version and mobile version hackathon site. The objective was to build a website by sticking with some design criteria. For that I created first-capstone-repo and cloned into my local machine. For best practices I have implemented Linter,Github Flow and professional documentation as much as I can. For the reference, you can click [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) to look at the design that i sticked on.
-
-![screenshot](./images/screenshot.png)
-
-
-
+> This is my first capstone project in the Microverse of Module 1 in which I built a GHC Women in computing conference Platform . This is my responsive desktop version and mobile version conference site. The objective was to build a website by sticking with some design criteria. For that I created HTML-CSS-JavaScript-Capstone-Project -repo and cloned into my local machine. For best practices I have implemented Linter,Github Flow and professional documentation as much as I can. 
 
 ## Built With
 
@@ -16,13 +11,13 @@
 - GitHub Flow 
 
 ## Live Demo
- [Live Preview of my website](https://basnetlaxmi.github.io/first-capstone-project/index.html)
+ [Live Preview of my website](https://tumworobere.github.io/HTML-CSS-JavaScript-Capstone-Project)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-1) Enter `git clone git@github.com:basnetlaxmi/first-capstone-project.git` into terminal
+1) Enter `git clone git@github.com:Tumworobere/HTML-CSS-JavaScript-Capstone-Project.git` into terminal
 
 2) Open in browser to view site
 
@@ -38,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Tumworobere Annah**
 
 - GitHub: [@tumworobere](https://github.com/tumworobere)
-Twitter: [@Tannah2090](https://twitter.com/Tannah2090)
+- Twitter: [@Tannah2090](https://twitter.com/Tannah2090)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/annah-tumworobere-6258b443)
 
 ## 🤝 Contributing
