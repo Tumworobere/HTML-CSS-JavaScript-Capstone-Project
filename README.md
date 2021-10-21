@@ -35,10 +35,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Laxmi Basnet**
+👤 **Tumworobere Annah**
 
-- GitHub: [@basnetlaxmi](https://github.com/basnetlaxmi)
-- LinkedIn: [LinkedIn](https://np.linkedin.com/in/laxmi-basnet-b22403131)
+- GitHub: [@tumworobere](https://github.com/tumworobere)
+Twitter: [@Tannah2090](https://twitter.com/Tannah2090)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/annah-tumworobere-6258b443)
 
 ## 🤝 Contributing
 
