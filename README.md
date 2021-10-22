@@ -13,6 +13,10 @@
 ## Live Demo
  [Live Preview of my website](https://tumworobere.github.io/HTML-CSS-JavaScript-Capstone-Project)
 
+
+## Video Link 
+[Live Preview of my website](https://www.loom.com/share/3be18d58d9104b1b9affecd961e024da)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
