@@ -176,15 +176,17 @@ footer h3::after {
 
 .down-footer {
   background: #fff;
+  align-items: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  justify-content: space-around;
 }
 
 .down-footer img {
-  width: 250px;
-  margin: 0;
+  width: 10vh
 }
 
 .down-footer h4 {
-  margin-top: 80px;
   width: 100px;
   white-space: nowrap;
   display: block;
