@@ -75,9 +75,11 @@ html {
   background-image: url('../images/ghc.JPG');
   background-repeat: no-repeat;
   background-size: cover;
-  width: 100%;
+  position: relative;
   text-align: center;
   padding: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .font-bold {
@@ -138,23 +140,6 @@ footer img {
   color: hotpink;
 }
 
-.up-footer {
-  height: 250px;
-}
-
-.down-footer {
-  background: #fff;
-}
-
-.down-footer img {
-  width: 200px;
-  margin: 0;
-}
-
-.down-footer h4 {
-  margin-top: 80px;
-}
-
 .second-container {
   background-image: url('./images/pattern_bg.png');
   background-repeat: repeat;
@@ -187,6 +172,25 @@ footer h3::after {
   height: 1px;
   width: 3%;
   margin: 5px auto;
+}
+
+.down-footer {
+  background: #fff;
+}
+
+.down-footer img {
+  width: 250px;
+  margin: 0;
+
+}
+
+.down-footer h4 {
+  margin-top: 80px;
+  width: 100px;
+  white-space:nowrap;
+  display: block;
+
+
 }
 
 .second-container .program h3 {
