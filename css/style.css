@@ -181,16 +181,13 @@ footer h3::after {
 .down-footer img {
   width: 250px;
   margin: 0;
-
 }
 
 .down-footer h4 {
   margin-top: 80px;
   width: 100px;
-  white-space:nowrap;
+  white-space: nowrap;
   display: block;
-
-
 }
 
 .second-container .program h3 {
